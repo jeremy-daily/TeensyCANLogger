@@ -19,3 +19,7 @@ The program is an adapted version of the LowLatencyLogger Example from the SdFat
 6. Write a binary data converter and visualizer.
 7. Poll for On-Request Messages.
   
+##Hardware
+The hardware is designed to be as small as possible using through hole parts.
+Schematics and a Bill of Materials is available.
+Hardware additions include switches, LED, RTC crystal, and an RTC battery.
