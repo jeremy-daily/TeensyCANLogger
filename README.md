@@ -7,6 +7,7 @@ Be sure to have these programs and libraries installed.
   * Arduino v1.6.8 (https://www.arduino.cc/en/Main/OldSoftwareReleases)
   * Teensyduino, which includes the FlexCAN library (https://www.pjrc.com/teensy/td_download.html)
   * SdFat (https://github.com/greiman/SdFat)
+
 The program is an adapted version of the LowLatencyLogger Example from the SdFat library. The other versions of Arduino and Teensyduino may work, but I haven't tested them.
 
 ##TODO
